@@ -1,0 +1,22 @@
+name,group
+Spatial Patterns (Topographic Maps),1
+Temporal Patterns,1
+Feature Relevance Map,1
+Spectral Profiles,1
+"SHAP, DeepSHAP, DeepLIFT",2
+"Integrated Gradients, LRP",2
+"Saliency maps, CAM, Grad CAM",2
+"Attention, Frequency Filter Weight Visualisation",2
+"Others (LIME, Tree, Tsne,Occlusion Sensitivity)",2
+Knowledge Discovery,3
+Justification,3
+Control,3
+Debug or Improvement,3
+Motor Movements or Imagery,4
+Audio,4
+Visual,4
+Emotion,4
+Attention & Memory,4
+Speech,4
+Sleep,4
+Others,4
