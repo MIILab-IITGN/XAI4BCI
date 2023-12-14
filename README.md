@@ -9,4 +9,6 @@ The entities are represented as circles around the perimeter of the diagram, eac
 The chords are the arcs connecting pairs of entities. The width of the chord may be used to represent the strength or frequency 
 of the relationship between the connected entities. The input is a matrix, where the rows and columns correspond to the entities, and the matrix entries represent the strength or frequency of the relationships between them. The color represents the different entities around the disk. The colors are chosen arbitrarily.
 
+Visit the app: https://xai4bci.streamlit.app/
+
 Click on the circular symbol adjacent to each design space variable category to find the strength of correlated works with other design space variables.
